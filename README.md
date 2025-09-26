@@ -18,3 +18,11 @@
 
 # Import Component
 <img width="724" height="1384" alt="image" src="https://github.com/user-attachments/assets/47d168d3-cf6e-4706-ae0b-ea26935f6ee1" />
+
+<br />
+<br />
+<br />
+
+# Simple Redux
+<img width="1872" height="745" alt="image" src="https://github.com/user-attachments/assets/a4245fdb-2f8c-447b-b139-2a4f67467fab" />
+
